@@ -1,0 +1,8 @@
+# Classes
+names:
+- reindeer
+- fawn
+nc: 2
+test: validation/images
+train: train/images
+val: validation/images
